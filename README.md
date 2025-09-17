@@ -22,31 +22,13 @@ The project includes a custom lexer, parser, and runtime engine to evaluate expr
 ---
 
 ## 📂 Project Structure
-SFort95-Interpreter/
-.
-├── src/                 # Source files
-│   ├── prog3.cpp        # Main entry point
-│   ├── lex.cpp          # Lexer implementation
-│   ├── parserInterp.cpp # Parser and interpreter
-│   ├── val.cpp          # Value class (operator overloads, data handling)
-│
-├── include/             # Header files
-│   ├── lex.h
-│   ├── parserInterp.h
-│   ├── val.h
-│
-├── tests/               # Sample input programs
-│   ├── test1.sfort
-│   ├── test2.sfort
-│   └── ...
-│
-├── tests_answers/       # Expected outputs for tests
-│   ├── test1.correct
-│   ├── test2.correct
-│   └── ...
-│
-├── build.bat            # Windows build script
-└── README.md            # Project documentation
+📂 src/ - Source files  
+📂 include/ - Header files  
+📂 tests/ - Sample input programs  
+📂 tests_answers/ - Expected outputs  
+⚙️ build.bat - Build script  
+📖 README.md - Documentation  
+
 
 
 
